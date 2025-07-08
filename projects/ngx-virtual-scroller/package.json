@@ -1,6 +1,6 @@
 {
-  "name": "@iharbeck/ngx-virtual-scroller",
-  "version": "19.0.1",
+  "name": "@daalex90/ngx-virtual-scroller",
+  "version": "20.0.0",
   "peerDependencies": {
     "@tweenjs/tween.js": "^25.0.0"
   },
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iharbeck/ngx-virtual-scroller.git"
+    "url": "git+https://github.com/daalex90/ngx-virtual-scroller.git"
   },
   "keywords": [
     "virtual scroll",
@@ -21,7 +21,8 @@
     "angular 16",
     "angular 17",
     "angular 18",
-    "angular 19"
+    "angular 19",
+    "angular 20"
   ],
   "contributors": [
     {
@@ -42,7 +43,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iharbeck/ngx-virtual-scroller/issues"
+    "url": "https://github.com/daalex90/ngx-virtual-scroller/issues"
   },
-  "homepage": "https://github.com/iharbeck/ngx-virtual-scroller#readme"
+  "homepage": "https://github.com/daalex90/ngx-virtual-scroller#readme"
 }
